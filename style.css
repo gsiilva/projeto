@@ -38,8 +38,8 @@ body * {
 }
 /* asteristico eh seletor universal, eh pra aplicar em todos os elementos dentro do body*/
 #container {
-    width: 360px;
-    /* border: 1px solid purple;*/
+    width: 100%;
+    max-width: 588px;
     margin: 56px auto 0px;
     padding: 0 24px;
 }
